@@ -1,0 +1,50 @@
+C:\Users\xxx\source\repos\Pic_To_Array\Pic_To_Array\bin\Debug\Pic_To_Array.exe.config
+C:\Users\xxx\source\repos\Pic_To_Array\Pic_To_Array\bin\Debug\Pic_To_Array.exe
+C:\Users\xxx\source\repos\Pic_To_Array\Pic_To_Array\bin\Debug\Pic_To_Array.pdb
+C:\Users\xxx\source\repos\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.csprojResolveAssemblyReference.cache
+C:\Users\xxx\source\repos\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.Form1.resources
+C:\Users\xxx\source\repos\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.Properties.Resources.resources
+C:\Users\xxx\source\repos\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.csproj.GenerateResource.cache
+C:\Users\xxx\source\repos\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.csproj.CoreCompileInputs.cache
+C:\Users\xxx\source\repos\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.exe
+C:\Users\xxx\source\repos\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.pdb
+E:\main data base\C#\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\bin\Debug\Pic_To_Array.exe.config
+E:\main data base\C#\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\bin\Debug\Pic_To_Array.exe
+E:\main data base\C#\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\bin\Debug\Pic_To_Array.pdb
+E:\main data base\C#\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.csprojResolveAssemblyReference.cache
+E:\main data base\C#\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.Form1.resources
+E:\main data base\C#\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.Properties.Resources.resources
+E:\main data base\C#\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.csproj.GenerateResource.cache
+E:\main data base\C#\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.csproj.CoreCompileInputs.cache
+E:\main data base\C#\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.exe
+E:\main data base\C#\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.pdb
+E:\LEARNINGS\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\bin\Debug\Pic_To_Array.exe.config
+E:\LEARNINGS\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\bin\Debug\Pic_To_Array.exe
+E:\LEARNINGS\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\bin\Debug\Pic_To_Array.pdb
+E:\LEARNINGS\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.csprojResolveAssemblyReference.cache
+E:\LEARNINGS\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.Form1.resources
+E:\LEARNINGS\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.Properties.Resources.resources
+E:\LEARNINGS\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.csproj.GenerateResource.cache
+E:\LEARNINGS\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.csproj.CoreCompileInputs.cache
+E:\LEARNINGS\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.exe
+E:\LEARNINGS\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.pdb
+D:\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\bin\Debug\Pic_To_Array.exe.config
+D:\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\bin\Debug\Pic_To_Array.exe
+D:\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\bin\Debug\Pic_To_Array.pdb
+D:\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.csprojResolveAssemblyReference.cache
+D:\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.Form1.resources
+D:\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.Properties.Resources.resources
+D:\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.csproj.GenerateResource.cache
+D:\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.csproj.CoreCompileInputs.cache
+D:\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.exe
+D:\C#\prefect sourcess\____MINE\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.pdb
+D:\repositories\C# repositories\sources\__MINE__\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\bin\Debug\Pic_To_Array.exe.config
+D:\repositories\C# repositories\sources\__MINE__\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\bin\Debug\Pic_To_Array.exe
+D:\repositories\C# repositories\sources\__MINE__\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\bin\Debug\Pic_To_Array.pdb
+D:\repositories\C# repositories\sources\__MINE__\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.csproj.AssemblyReference.cache
+D:\repositories\C# repositories\sources\__MINE__\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.Form1.resources
+D:\repositories\C# repositories\sources\__MINE__\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.Properties.Resources.resources
+D:\repositories\C# repositories\sources\__MINE__\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.csproj.GenerateResource.cache
+D:\repositories\C# repositories\sources\__MINE__\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.csproj.CoreCompileInputs.cache
+D:\repositories\C# repositories\sources\__MINE__\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.exe
+D:\repositories\C# repositories\sources\__MINE__\Lovely Program Sources\!! New Lovely Pro\Pic_To_Array\Pic_To_Array\obj\Debug\Pic_To_Array.pdb
